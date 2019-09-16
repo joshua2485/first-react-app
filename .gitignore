@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-=======
->>>>>>> b480e69a8a435dd6b141b6cc66fd8b618b3c3919
 # Logs
 logs
 *.log
