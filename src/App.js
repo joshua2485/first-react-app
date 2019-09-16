@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Basic CICD Complete attempt 2
+          Basic CICD Complete attempt 3
         </p>
         <a
           className="App-link"
