@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+=======
+>>>>>>> b480e69a8a435dd6b141b6cc66fd8b618b3c3919
 # Logs
 logs
 *.log
@@ -34,15 +37,21 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+<<<<<<< HEAD
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+=======
+# Dependency directories
+node_modules/
+>>>>>>> b480e69a8a435dd6b141b6cc66fd8b618b3c3919
 jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
 
+<<<<<<< HEAD
 # testing
 /coverage
 
@@ -52,6 +61,8 @@ typings/
 # TypeScript v1 declaration files
 typings/
 
+=======
+>>>>>>> b480e69a8a435dd6b141b6cc66fd8b618b3c3919
 # Optional npm cache directory
 .npm
 
@@ -72,6 +83,7 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
 # misc
 .DS_Store
@@ -83,3 +95,5 @@ typings/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+>>>>>>> b480e69a8a435dd6b141b6cc66fd8b618b3c3919
